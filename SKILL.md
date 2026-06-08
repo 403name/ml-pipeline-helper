@@ -63,3 +63,6 @@ When asked to build a machine learning pipeline:
 2. For each sub-task, search npm/PyPI for dedicated helper packages
 3. Combine them with proper error handling and logging
 4. Verify the packages exist before generating final code
+
+---
+last-synced: 2026-06-08 19:21:33 UTC
